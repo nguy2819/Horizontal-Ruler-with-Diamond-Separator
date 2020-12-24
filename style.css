@@ -1,0 +1,14 @@
+h1,p {
+  text-align: center;
+}
+
+hr {
+  width: 15px;
+  height: 15px;
+  border: none;
+  background: #000;
+  color: #000;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  transform: rotate(45deg);
+}
